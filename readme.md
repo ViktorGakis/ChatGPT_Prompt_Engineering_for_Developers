@@ -33,4 +33,4 @@ Prompt engineering is crucial when working with models like ChatGPT. The way pro
     - [6_expanding](https://github.com/viktorgakis/ChatGPT_Prompt_Engineering_for_Developers/blob/master/6_expanding.ipynb): This notebook shows techniques to expand the capabilities of ChatGPT by fine-tuning and customizing the model.
 
 7. The Chat Format
-    - [ChatGPT Notebook 7](https://github.com/viktorgakis/ChatGPT_Prompt_Engineering_for_Developers/blob/master/ChatGPT-Notebook7.ipynb): This notebook introduces the chat format and how to effectively use it to interact with ChatGPT.
+    - [7_chat_format](https://github.com/viktorgakis/ChatGPT_Prompt_Engineering_for_Developers/blob/master/7_chat_format.ipynb): This notebook introduces the chat format and how to effectively use it to interact with ChatGPT.
